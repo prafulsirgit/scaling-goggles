@@ -96,16 +96,16 @@ POST `/api/apply`
 
 ```json
 {
-  "name": "Maithili Kotpalliwar",
+  "name": "Ritika Gupta",
   "gender": "Female",
   "age": 22,
   "contactNumber": "9876543210",
-  "college": "SB JAIN Institute of Tech",
+  "college": "Pawan Institute of Tech",
   "collegeAmbassador": true,
   "domain": "Web Development",
   "linkedinFollowed": true,
   "screenshot": "screenshot_url_or_file",
-  "referrerName": "Ayush Badwaik",
+  "referrerName": "Ayush Sinha",
   "agreedToTerms": true
 }
 ```
